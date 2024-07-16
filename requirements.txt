@@ -1,0 +1,6 @@
+firebase-admin
+cmake
+dlib
+face-recognition
+cvzone
+numpy
