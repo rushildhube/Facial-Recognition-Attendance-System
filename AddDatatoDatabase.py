@@ -6,7 +6,7 @@ cred = credentials.Certificate("serviceAccountKey.json")
 firebase_admin.initialize_app(cred, {
     'databaseURL': "enter your database url"
 })
-reference = db.reference('StudentsData')
+reference = db.reference('database-name')
 data = {
     
     "963852":
