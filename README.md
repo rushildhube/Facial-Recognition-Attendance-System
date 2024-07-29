@@ -41,6 +41,10 @@ This project is a Face Recognition Attendance System that uses OpenCV and Fireba
      }
      ```
 
+   - Get the Realtime Database URL:
+     - Click on the "Data" tab under "Realtime Database".
+     - Copy the database URL from the top of the page (e.g., `https://your-database-url.firebaseio.com`).
+
 3. **Set Up Firebase Storage**
 
    - In the Firebase Console, go to "Storage".
@@ -56,6 +60,10 @@ This project is a Face Recognition Attendance System that uses OpenCV and Fireba
        }
      }
      ```
+
+   - Get the Storage Bucket URL:
+     - Click on the "Files" tab under "Storage".
+     - Copy the storage bucket URL from the top of the page (e.g., `your-storage-bucket-url.appspot.com`).
 
 4. **Download the Firebase Admin SDK**
 
